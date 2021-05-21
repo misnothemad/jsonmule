@@ -1,0 +1,44 @@
+{
+	"fileType": "bestiary-sublist",
+	"siteVersion": "1.129.0",
+	"items": [
+		{
+			"h": "inquisitor%20of%20the%20tome_vrgr",
+			"c": 1,
+			"customHashId": null
+		},
+		{
+			"h": "inquisitor%20of%20the%20sword_vrgr",
+			"c": 1,
+			"customHashId": null
+		},
+		{
+			"h": "inquisitor%20of%20the%20mind%20fire_vrgr",
+			"c": 1,
+			"customHashId": null
+		},
+		{
+			"h": "greater%20star%20spawn%20emissary_vrgr",
+			"c": 1,
+			"customHashId": null
+		},
+		{
+			"h": "lesser%20star%20spawn%20emissary_vrgr",
+			"c": 1,
+			"customHashId": null
+		},
+		{
+			"h": "dullahan_vrgr",
+			"c": 1,
+			"customHashId": null
+		},
+		{
+			"h": "death's%20head_vrgr",
+			"c": 1,
+			"customHashId": null
+		}
+	],
+	"sources": [
+		"VRGR"
+	]
+}
